@@ -1,0 +1,64 @@
+*
+{
+	margin:0px;
+}
+body
+{
+	background-color:white;
+	padding: 0;
+	width: 100%;
+	height:100%;
+	font-family: "Times New Roman";
+	line-height:1.3em;
+}
+header
+{
+	height:80px;
+	background-color:#EAEAEA;
+}
+h1
+{
+	padding: 20px 0px 0px 0px;
+}
+footer
+{
+	background-color:black;
+	height:25px;
+	clear:both;
+	text-align:center;
+}
+.boldtext
+{
+	font-weight:bold;
+}
+#left
+{
+	width:25%;
+	background-color:#C8FC98;
+	float:left;
+
+}
+#content
+{
+	min-width:200px;
+
+}
+#right
+{
+	background-color:#FDE95E;
+	float:right;
+	width:200px;
+}
+.redtext
+{
+	color:red;
+	font-style:italic;
+}
+
+a
+{
+	vertical-align: middle;
+	text-decoration: underline;
+}
+a:link{color:#FFFF80}
+a:visited{color:red}
