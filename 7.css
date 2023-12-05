@@ -1,11 +1,9 @@
 div
 {
 	color:white;
-}
-p
-{
 	margin:0px;
 }
+ 
 #staticDiv
 {
 	width:150px;
@@ -26,16 +24,17 @@ p
 	height:100px;
 	background-color:peru;
 	position:relative;
-	top:-60px;
+
 	left:30px;
 }
 #relativeDiv3
-{
+{	
+	margin-top:20px;
 	width:700px;
 	height:500px;
 	background-color:indianred;
 	position:relative;
-	top:-20px;
+
 }
 #absoluteDiv
 {
