@@ -1,0 +1,10 @@
+#center
+{
+	
+	margin: 20px auto 0 auto;
+	background-color:blue;
+	color:white;
+	max-width:600px;
+	min-width:300px;
+	  overflow-x:hidden;
+}
