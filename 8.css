@@ -1,0 +1,44 @@
+p
+{
+	margin:0px;
+}
+ul
+{
+
+}
+section
+{
+	position:relative;
+	max-width:100%;
+}
+#leftList
+{
+	width:200px;
+	height:90px;
+	background-color:bisque;
+	/*line-height:1.3em;
+	vertical-align:center;
+	box-sizing:border-box;*/
+	padding: 15px 0px 15px 0px;
+	margin:0px;
+	position:static;
+}
+#lpart
+{
+	width:200px;
+	background-color:aqua;
+	float:left;
+	bottom: auto;
+	position: absolute;
+	height:100%;
+}
+
+#main
+{
+	position:relative;
+	left:200px;
+	top: 0px;
+	width:calc(100% - 200px);
+	line-height:1.2em;
+	background-color:darkgray;
+}
