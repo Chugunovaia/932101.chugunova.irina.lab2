@@ -1,0 +1,18 @@
+#topPart
+{
+	margin: 20px auto 0 auto;
+	background-color:white;
+	color:black;
+	width:500px;
+}
+#bottomPart
+{
+	margin: 20px auto 0 auto;
+	background-color:white;
+	color:black;
+	width:440px;
+	padding:25px;
+	border:5px;
+	border-color:blue;
+	border-style:solid;
+}
