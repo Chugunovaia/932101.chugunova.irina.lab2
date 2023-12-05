@@ -1,7 +1,21 @@
-div
+
+body
+{
+	overflow:auto;
+	min-width:10 px;
+	max-width: 1200px;
+	
+	 position:static;
+    overflow-x:auto;
+    height:100%;
+
+.main
 {
 	margin: 20px auto 0 auto;
+	position: center;
 	background-color:blue;
 	color:white;
-	width:600px;
+	/*min-width:600px;
+	max-width:600 px;*/
+	width: 600px;
 }
