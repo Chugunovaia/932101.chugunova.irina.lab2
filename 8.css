@@ -16,9 +16,6 @@ section
 	width:200px;
 	height:90px;
 	background-color:bisque;
-	/*line-height:1.3em;
-	vertical-align:center;
-	box-sizing:border-box;*/
 	padding: 15px 0px 15px 0px;
 	margin:0px;
 	position:static;
@@ -41,4 +38,14 @@ section
 	width:calc(100% - 200px);
 	line-height:1.2em;
 	background-color:darkgray;
+}
+footer
+{
+
+	background-color:limegreen;
+	height:50px;
+	width:100%;
+	position:absolute;
+	bottom:0px;
+
 }
