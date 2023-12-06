@@ -1,20 +1,16 @@
-p
-{
-	margin:0px;
-}
-ul
+
+#list
 {
 	min-width:150px;
-	width:20%;
-	background-color:bisque;
-	line-height:1.3em;
-	box-sizing:border-box;
-	padding-top:15px;
-	padding-bottom:15px;
-	margin:0px;
+	width:24%;
 	float:left;
+	background-color:bisque;
+	padding:15px 0px 15px 0px;
+	margin:0px 10px 0px 0px;
+	box-sizing:border-box;
+	clear:both;
 }
-#aquaDiv
+#out
 {
 	width:100%;
 	background-color:aqua;
@@ -23,12 +19,15 @@ ul
 	border-style:solid;
 	position:relative;
 }
-#center
+#text
 {
 	display:inline-block;
-	width:79%;
-	line-height:1.2em;
+	width:74%;
+	min-width:150px;
 	background-color:darkgray;
-	margin-left:5px;
-	margin-right:5px;
+	margin: 0px 10px 0px 0px;
+}
+p
+{
+	margin:0px;
 }
