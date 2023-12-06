@@ -1,0 +1,14 @@
+#floatBox
+{
+	float:left;
+	background-color:aquamarine;
+	margin:15px;
+	width:200px;
+	height:100px;
+}
+#box
+{
+	width:100%;
+	clear:both;
+	background-color:bisque;
+}
