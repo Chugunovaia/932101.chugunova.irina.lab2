@@ -1,0 +1,18 @@
+body
+{
+	overflow:auto;
+	
+}
+div
+{
+	margin: 0px auto 0px auto;
+	background-color:blue;
+	color:white;
+	width:600px;
+}
+#pic
+{
+	float:right;
+	top:0px;
+	right:0px;
+}
