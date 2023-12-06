@@ -1,0 +1,47 @@
+
+p
+{
+	margin:0px;
+}
+#list
+{
+	width:20%;
+	min-width:120px;
+	background-color:bisque;
+	box-sizing:border-box;
+	padding: auto 0px auto 10px;
+	margin:0px;
+	clear:none;
+	float:left;
+}
+#out
+{
+	max-width:100%;
+	min-width:600px;
+	background-color:aqua;
+	border:1px;
+	border-color:green;
+	border-style:solid;
+	position:relative;
+}
+#main
+{
+	display:inline-block;
+	width:80%;
+	
+	left:20%;
+	right:0px;
+	background-color:darkgray;
+}
+#pic
+{
+	float:right;
+	margin:0px;
+	top:0px;
+	height:auto;
+	width:50%;
+}
+#a
+{
+	clear:right;
+}
